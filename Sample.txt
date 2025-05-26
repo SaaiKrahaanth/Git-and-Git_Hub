@@ -1,0 +1,2 @@
+line added by using echo commmand
+line added using vi 
