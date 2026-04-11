@@ -1,0 +1,9 @@
+git branch 
+
+git pull origin DEV_payment 
+
+git checkout DEV_payment
+
+git checkout DEV_feature
+
+git merge DEV_payment
